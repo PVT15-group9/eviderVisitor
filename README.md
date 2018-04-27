@@ -2,3 +2,4 @@
 GUIvisitor
 GUIgroup
 Vi sitter i skolan
+Jag vet inte vad 
